@@ -27,5 +27,10 @@ Powered by `Mistral-7B-Instruct` via Hugging Face, this app leverages Langflow +
 
 ## 🖼️ UI Flow (Langflow)
 
+## 🧠 Langflow Visual Flow
+
+Explore the backend flow of this app using [Langflow by DataStax](https://astra.datastax.com/langflow):  
+👉 [Click here to view the visual flow](https://astra.datastax.com/langflow/dce800be-521a-4b92-827b-c0f1927ac0b4/flow/ba55769e-aa9d-44b8-8968-398a25fd3ed9)
+
 ---
 
